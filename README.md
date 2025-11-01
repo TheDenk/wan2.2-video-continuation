@@ -3,6 +3,10 @@
 This repo contains the code for video continuation inference using [Wan2.2](https://github.com/Wan-Video/Wan2.2).  
 The main idea was taken from [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video).  
 
+
+Demo example (Only the first 32 frames are original; the rest are generated)  
+<video controls autoplay src="https://github.com/user-attachments/assets/02d28de5-99d8-4eb4-bf0d-1e86a03d2689"></video>
+
 ## Description
 This is simple lora for Wan2.2TI transformer.
 First test - rank = 64, alpha = 128.  
