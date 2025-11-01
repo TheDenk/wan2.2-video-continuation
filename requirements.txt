@@ -1,0 +1,11 @@
+diffusers
+numpy
+Pillow
+torch
+transformers
+peft
+denku
+imageio 
+imageio-ffmpeg
+ftfy
+gradio
